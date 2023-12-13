@@ -5,4 +5,5 @@ de $v=120$
 
 ## Funcionamiento
 
-Usamos los pines 
+- PB5 (reset)
+- PB4
